@@ -1,4 +1,4 @@
-# Desenho-de-Cora-o-com-Turtle-e-Matem-tica
+# Desenho-de-Coração-com-Turtle-e-Matem-tica
 Este código utiliza a biblioteca Turtle e funções matemáticas para desenhar um coração na tela.
 
 📜 Explicação do Código
